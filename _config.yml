@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint"
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Dirk's Website"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Cornelis Dirk Haupt"
+description              : "Test."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -82,8 +82,8 @@ author:
   name             : "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  location         : "Vancouver, BC"
+  email            : "dirk.haupt@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -91,23 +91,23 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "Frikster"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "cornelis-dirk-haupt-a1296316"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  stackoverflow    : "2734863/dirk-haupt"
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
   twitter          :
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : "https://www.youtube.com/channel/UC_pvoCJD7jSeZq0I4ZtmKJw"
 
 
 # Reading Files
