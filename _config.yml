@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Your Name"
-  avatar           : "/assets/images/headshot.jpg"
+  avatar           : "/assets/images/headshot.JPG"
   bio              : "I am an amazing person."
   location         : "Vancouver, BC"
   email            : "dirk.haupt@gmail.com"
