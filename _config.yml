@@ -8,7 +8,7 @@ minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint"
 
 # Site Settings
 locale                   : "en"
-title                    : "Dirk's Website"
+title                    : "Test Website"
 title_separator          : "-"
 name                     : "Cornelis Dirk Haupt"
 description              : "Test."
