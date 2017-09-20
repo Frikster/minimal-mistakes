@@ -78,9 +78,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : "//raw.githubusercontent.com/Frikster/Frikster.github.io/blob/master/assets/images/headshot.jpg"
-  bio              : "I am an amazing person."
+  name             : "Cornelis Dirk Haupt"
+  avatar           : "/assets/images/headshot.jpg"
+  bio              : "Hire me plz, thanx"
   location         : "Vancouver, BC"
   email            : "dirk.haupt@gmail.com"
   uri              :
