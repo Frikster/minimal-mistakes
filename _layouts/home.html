@@ -2,10 +2,8 @@
 layout: archive
 ---
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
-
-{% for post in paginator.posts %}
-  {% include archive-single.html %}
-{% endfor %}
-
-{% include paginator.html %}
+{% include card.html title="Objective" decal-img="objective.svg" content="objective.md" %}
+{% include card.html title="Experience" markdown-content="experience.md" %}
+{% include card.html title="Education" markdown-content="education.md" %}
+{% include card.html title="Projects" markdown-content="projects.md" %}
+{% include card.html title="Skills" markdown-content="skills.md"%}
